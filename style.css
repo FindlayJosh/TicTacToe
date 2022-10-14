@@ -77,3 +77,6 @@ button{
     margin-left: 5px;
     margin-bottom: 5px;
 }
+#huntr-react-container{
+    display:none;
+    }
